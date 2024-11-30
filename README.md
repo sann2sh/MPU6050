@@ -1,7 +1,7 @@
 # MPU6050
 MPU6050 - Accelerometer and Gyroscope with Arduino and Processing IDE for 3D visualization.
 
-Demo video: [Youtube](youtube.com/shorts/l07aA6tn2og), [Instagram](instagram.com/reel/C1wiwcEJd7o/)
+Demo video: [Youtube](www.youtube.com/shorts/l07aA6tn2og), [Instagram](www.instagram.com/reel/C1wiwcEJd7o/)
 
 Required Arduino Libraries
 To use the MPU6050 sensor with Arduino, you will need to install the [MPU6050]([url](github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050)) library.
